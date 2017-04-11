@@ -178,4 +178,5 @@ Music commands
 
 ^^volume
 
+
 Thats all for now, more to come in the future!
