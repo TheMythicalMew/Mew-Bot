@@ -114,6 +114,8 @@ Hey Mew, what is your opinion on sex?
 
 RYCB
 
+Hey Mew, whats you and Mew's secret plan :D?
+
 
 Commands
 
