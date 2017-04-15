@@ -28,7 +28,7 @@ I like Vibes
 
 HEY MA
 
-THANKS MEW U DA BOMB
+THANKS MEW U DA BOMB!
 
 Baii
 
