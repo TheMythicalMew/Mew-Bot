@@ -124,6 +124,10 @@ Hey Mew, where is the nearest drug dealer?
 
 Hey Siri (any content after Hey Siri)
 
+Hey Bixby (any content after Hey Bixby)
+
+Hey Alexa (any content after Hey Alexa)
+
 
 Commands
 
