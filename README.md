@@ -122,6 +122,8 @@ LETS FILL MATT'S ROOM WITH COWS!
 
 Hey Mew, where is the nearest drug dealer?
 
+Hey Siri (any content after Hey Siri)
+
 
 Commands
 
