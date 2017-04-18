@@ -120,6 +120,8 @@ Hey Mew, whats you and Mew's secret plan :D?
 
 LETS FILL MATT'S ROOM WITH COWS!
 
+Hey Mew, where is the nearest drug dealer?
+
 
 Commands
 
