@@ -134,6 +134,8 @@ Commands
 
 ^^8ball
 
+^^cat
+
 !roll
 
 (WIP Right now only I [Mew#4047] can do it)^^kick
