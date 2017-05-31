@@ -144,6 +144,8 @@ Commands
 
 ^^cat
 
+^^hoovy
+
 !roll
 
 (WIP Right now only I [Mew#4047] can do it)^^kick
