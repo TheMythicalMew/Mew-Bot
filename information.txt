@@ -3,5 +3,5 @@ Mew Bot is getting his webpage soon!
 For commands and information about Mew Bot go to https://github.com/TheMythicalMew/Mew-Bot/ where you can find commands in READNE.md and information in information.txt .
 We currently have Mew#4047 as the owner, Littletale Papyrus#6574 and nope_noob#5172 as co-owners and Zelotbe#3143 as Discord Admin/Dev
 To get to the site GitHub in discord type
-Hey Mew, help
+Hey Mew, help or ^^help
 so far all commands are cap specific (probably cos Mew is too lazy to change it)
