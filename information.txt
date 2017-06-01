@@ -1,4 +1,4 @@
-Mew Bot is a mostly chatting bot mixed in! Mew Bot has music, text commands, normal commands + more!
+Mew Bot is a mostly chatting bot mixed in! Mew Bot has text commands, normal commands + more!
 Mew Bot is getting his webpage soon!
 For commands and information about Mew Bot go to https://github.com/TheMythicalMew/Mew-Bot/ where you can find commands in READNE.md and information in information.txt .
 We currently have Mew#4047 as the owner, Littletale Papyrus#6574 and nope_noob#5172 as co-owners and Zelotbe#3143 as Discord Admin/Dev
