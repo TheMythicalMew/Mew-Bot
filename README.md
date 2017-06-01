@@ -138,6 +138,8 @@ Hey Mew, what is ROBLOX?
 
 Commands
 
+^^help
+
 ^^test
 
 ^^8ball
