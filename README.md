@@ -174,43 +174,7 @@ I (Mew#4047) can sometimes change Mew Bot's avatar by using simple commands
 Music commands
 
 
-^^blacklist
-
-^^clean
-
-^^clear
-
-^^disconnect
-
-^^id
-
-^^joinserver
-
-^^listids
-
-^^np
-
-^^pause
-
-^^perms
-
-^^play
-
-^^pldump
-
-^^queue
-
-^^resume
-
-^^search
-
-^^shuffle
-
-^^skip
-
-^^summon
-
-^^volume
+MUSIC HAS BEEN REMOVED FOR NOW
 
 
 Thats all for now, more to come in the future!
